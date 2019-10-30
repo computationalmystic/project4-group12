@@ -6,3 +6,4 @@
   * even working in the same javascript file we didn't really need to touch each other's methods.. easy to merge
 * I (max) hashed out the JS fetch request method and made the interface. I also wrote the getTopCommitters committerGraph function
   * Davin and Ziang made the and getPUllAcceptanceRate/pullGraph and getIssues/drawIssueGraph function pairs, respectively. 
+* I chose the google charts api for the graphs because it was the first result on google (wonder why) and had good documentation
