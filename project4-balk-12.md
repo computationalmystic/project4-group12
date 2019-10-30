@@ -1,5 +1,5 @@
-#Max's project 4 (assignment 7) readme
-##rationale and team assessment 
+# Max's project 4 (assignment 7) readme
+## rationale and team assessment 
 * We chose vanilla web technologies because the project originally had a much shorter timeframe.
   * I wanted it to be possible for each member of the group to produce something that worked 
 * There didnt seem to be much of a need for any sort of multiple page approach
